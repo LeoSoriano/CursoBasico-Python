@@ -2,7 +2,7 @@
 
 En este curso aprenderas a programar en Python
 
-![Logo de Python](Imagenes\pythonNew.jpg)
+![Logo de Python](pythonNew.jpg)
 
 
 
