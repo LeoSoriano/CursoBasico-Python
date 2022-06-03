@@ -2,7 +2,7 @@
 
 En este curso aprenderas a programar en Python
 
-![Logo de Python](pythonNew.jpg)
+![Logo de Python](https://github.com/LeoSoriano/CursoBasico-Python/blob/main/Imagenes/pythonNew.jpg)
 
 
 
